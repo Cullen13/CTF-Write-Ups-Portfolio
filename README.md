@@ -12,7 +12,7 @@ Clear documentation and screenshots
 Each write‑up is structured to reflect real‑world penetration testing methodology.
 
 Repository Structure
-Code
+\\\
 ctf-writeups/
 │
 ├── TryHackMe/
@@ -29,7 +29,7 @@ ctf-writeups/
     ├── challenge-name/
     │   ├── writeup.md
     │   └── screenshots/
-
+\\\
 Featured Write‑Ups
 These are my most complete and polished write‑ups:
 Basic Pentest (TryHackMe) — Enumeration, SSH exploitation, cronjob privilege escalation
