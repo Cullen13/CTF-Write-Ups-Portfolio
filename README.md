@@ -22,7 +22,7 @@ Each write‑up is structured to reflect real‑world penetration testing method
 ctf-writeups/
 │
 ├── TryHackMe/
-│   ├── room-name/
+│   ├── Block suspicious IP/SSH login/
 │   │   ├── writeup.md
 │   │   └── screenshots/
 │
