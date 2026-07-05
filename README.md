@@ -42,7 +42,8 @@ These are my most complete and polished write‑ups:
 
 **- SOC Level 1: Attack Detection & Containment**
 
-<u> Overview </u>
+*Overview*
+
 This defensive security challenge simulated a real SOC (Security Operations Center) workflow.
 Objectives included:
 
