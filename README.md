@@ -193,7 +193,7 @@ Incident containment
 
 I identified a malicious IP performing directory enumeration, validated the threat, blocked the attacker, and applied rate limiting for additional protection. This exercise reinforced the importance of layered defense and rapid response in SOC operations.  
 
-**- New Write‑Up Coming Soon**
+**- New Write‑Up Coming Soon (block unauthorised SSH login - Junior Security Analyst Intro task)**
 
 I update this repository regularly as I complete more challenges.
 
