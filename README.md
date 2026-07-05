@@ -22,7 +22,7 @@ Each write‑up is structured to reflect real‑world penetration testing method
 ctf-writeups/
 │
 ├── TryHackMe/
-│   ├── BlocksuspiciousIP/SSH login/
+│   ├── SOC Level 1: Attack Detection & Containment/
 │   │   ├── writeup.md
 │   │   └── screenshots/
 │
