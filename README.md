@@ -47,13 +47,9 @@ This defensive security challenge simulated a real SOC (Security Operations Cent
 Objectives included:
 
 Detecting suspicious activity
-
 Identifying the attack type
-
 Analyzing threat intelligence
-
 Containing the attacker using firewall rules and rate‑limiting
-
 This exercise demonstrated core SOC analyst skills used in real environments.
 
 Task 1 — Detect Suspicious Activity
