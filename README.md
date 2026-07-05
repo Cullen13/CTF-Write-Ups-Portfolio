@@ -57,6 +57,7 @@ Containing the attacker using firewall rules and rate‑limiting
 This exercise demonstrated core SOC analyst skills used in real environments.
 
 
+
 Task 1 — Detect Suspicious Activity
 The monitoring dashboard displayed several alerts indicating abnormal behavior.
 
@@ -82,6 +83,7 @@ Code
 32.122.195.63
 
 
+
 Task 2 — Identify the Attack Type
 Reviewing the URL Discovery Attempts revealed multiple probes for sensitive endpoints.
 
@@ -96,6 +98,7 @@ Code
 Conclusion
 
 The attacker was performing directory enumeration, attempting to locate hidden or admin pages.
+
 
 
 Task 3 — Threat Intelligence Review
@@ -120,6 +123,7 @@ Review admin panel access logs
 Apply rate limiting
 
 Update WAF rules
+
 
 
 Task 4 — Contain the Attack
@@ -150,6 +154,7 @@ BLOCK
 Outcome
 
 The attacker was successfully contained and prevented from further probing.
+
 
 
 Final Summary
