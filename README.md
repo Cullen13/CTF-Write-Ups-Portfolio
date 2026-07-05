@@ -42,7 +42,7 @@ These are my most complete and polished write‑ups:
 
 **- SOC Level 1: Attack Detection & Containment**
 
-*Overview*
+***Overview***
 
 This defensive security challenge simulated a real SOC (Security Operations Center) workflow.
 Objectives included:
@@ -59,7 +59,7 @@ This exercise demonstrated core SOC analyst skills used in real environments.
 
 
 
-Task 1 — Detect Suspicious Activity
+***Task 1 — Detect Suspicious Activity***
 The monitoring dashboard displayed several alerts indicating abnormal behavior.
 
 Alerts Observed
@@ -85,7 +85,7 @@ Code
 
 
 
-Task 2 — Identify the Attack Type
+***Task 2 — Identify the Attack Type***
 Reviewing the URL Discovery Attempts revealed multiple probes for sensitive endpoints.
 
 Evidence
@@ -102,7 +102,7 @@ The attacker was performing directory enumeration, attempting to locate hidden o
 
 
 
-Task 3 — Threat Intelligence Review
+***Task 3 — Threat Intelligence Review***
 Threat intelligence confirmed the attacker had a history of malicious activity.
 
 Threat Intel Findings
@@ -127,7 +127,7 @@ Update WAF rules
 
 
 
-Task 4 — Contain the Attack
+***Task 4 — Contain the Attack***
 Containment was performed using the firewall manager.
 
 Firewall Actions Taken
@@ -158,7 +158,7 @@ The attacker was successfully contained and prevented from further probing.
 
 
 
-Final Summary
+***Final Summary***
 This challenge demonstrated key SOC skills:
 
 Alert triage
@@ -177,7 +177,7 @@ Incident containment
 
 I identified a malicious IP performing directory enumeration, validated the threat, blocked the attacker, and applied rate limiting for additional protection. This exercise reinforced the importance of layered defense and rapid response in SOC operations.  
 
-- New Write‑Up Coming Soon  
+**- New Write‑Up Coming Soon**
 
 I update this repository regularly as I complete more challenges.
 
