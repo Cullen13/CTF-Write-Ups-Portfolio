@@ -28,7 +28,6 @@ ctf-writeups/
 │   ├── Block unauthorised SSH login/
 │   │   ├── writeup.md
 │   │   └── screenshots/
-
 │
 ├── HackTheBox/
 │   ├── machine-name/
