@@ -25,6 +25,10 @@ ctf-writeups/
 │   ├── SOC Level 1: Attack Detection & Containment/
 │   │   ├── writeup.md
 │   │   └── screenshots/
+│   ├── Block unauthorised SSH login/
+│   │   ├── writeup.md
+│   │   └── screenshots/
+
 │
 ├── HackTheBox/
 │   ├── machine-name/
