@@ -287,10 +287,13 @@ How to understand the bigger picture of an attacker’s behaviour inside a syste
 
 **Screenshots**
 
+Unauthorised SSH login alert
 <img width="1007" height="1175" alt="image" src="https://github.com/user-attachments/assets/a25ee264-e5c1-4f56-8df8-290bcc89abd5" />
 
+Threat Intelligence Check
 <img width="983" height="1265" alt="image" src="https://github.com/user-attachments/assets/3bad57a4-1aed-430c-8cb6-9e0b3d1d3c70" />
 
+Firewall Block
 <img width="989" height="1093" alt="image" src="https://github.com/user-attachments/assets/452dcdf8-3750-4168-84bf-f82597d134ca" />
 
 
