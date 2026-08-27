@@ -308,7 +308,8 @@ I update this repository regularly as I complete more challenges.
 ---
 
 ## Skills Demonstrated
-- Enumeration (nmap, gobuster, wpscan)  
+- Enumeration (nmap, gobuster, wpscan)
+- SIEM Dashboard Analysis  
 - Web exploitation (SQLi, LFI/RFI, weak credentials)  
 - Password attacks (hydra, wordlists)  
 - Privilege escalation (Linux/Windows techniques, cron jobs, SUID, misconfigurations)  
@@ -318,7 +319,8 @@ I update this repository regularly as I complete more challenges.
 ---
 
 ## Tools I Use
-- nmap  
+- nmap
+- Splunk
 - gobuster  
 - Burp Suite  
 - hydra  
