@@ -22,7 +22,7 @@ Each write‑up follows real‑world SOC methodology and showcases practical ana
 
 ## Repository Structure
 
-**ctf-writeups/
+ctf-writeups/
 │
 ├── TryHackMe/
 │   ├── SOC Level 1: Attack Detection & Containment/
@@ -33,17 +33,18 @@ Each write‑up follows real‑world SOC methodology and showcases practical ana
 │   │   └── screenshots/
 │   ├── SOC SIEM Dashboard Simulator – Phishing Alert Handling/
 │   │   ├── README.md
-│   │   └── screenshots/**
-
+│   │   └── screenshots/
+│
 ├── HackTheBox/
 │   ├── machine-name/
 │   │   ├── writeup.md
 │   │   └── screenshots/
 │
 └── PicoCTF/
-├── challenge-name/
-│   ├── writeup.md
-│   └── screenshots/
+    ├── challenge-name/
+    │   ├── writeup.md
+    │   └── screenshots/
+
 ---
 
 ## Featured Write‑Ups
