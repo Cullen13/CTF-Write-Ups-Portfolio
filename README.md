@@ -340,7 +340,7 @@ This write-up documents my experience using the TryHackMe SOC SIEM dashboard sim
 
 ## SIEM Dashboard View
 
-
+![SIEM Dashboard Screenshot](TryHackMe/SOC-SIEM-Phishing-Alerts/screenshots/Screenshot%20SIEM%20Simulation.png)
 
 
 
