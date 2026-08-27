@@ -24,7 +24,7 @@ Each write‑up follows real‑world SOC methodology and showcases practical ana
 
 CTF-writeups/
 │
-├── ##TryHackMe/
+├── TryHackMe/
 │   ├── SOC Level 1: Attack Detection & Containment/
 │   │   ├── writeup.md
 │   │   └── screenshots/
