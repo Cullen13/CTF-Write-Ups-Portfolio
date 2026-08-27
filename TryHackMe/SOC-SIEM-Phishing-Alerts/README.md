@@ -32,3 +32,7 @@ This write-up documents my experience using the TryHackMe SOC SIEM dashboard sim
 - Utilizing company playbooks for remediation, incident response and escalation where required 
 - Reducing SOC noise by identifying false positives
 - Writing clear investigation notes for handoff and escalation where required
+
+## SIEM Dashboard View
+
+![SIEM Dashboard Screenshot](screenshots/Screenshot%20SIEM%20Simulation%20.png)
