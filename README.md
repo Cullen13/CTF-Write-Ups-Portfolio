@@ -4,22 +4,25 @@ A collection of Capture the Flag (CTF) write‑ups documenting my hands‑on cyb
 ---
 
 ## About This Repository
-This repo contains detailed, step‑by‑step CTF write‑ups that demonstrate:
+This repository contains detailed SOC‑focused CTF write‑ups demonstrating:
 
-- Enumeration and recon techniques  
-- Vulnerability identification  
-- Exploitation paths  
-- Privilege escalation  
-- Lessons learned  
-- Clear documentation and screenshots  
+Alert triage and investigation
 
-Each write‑up is structured to reflect real‑world penetration testing methodology.
+Log correlation across SIEM tools
+
+Threat intelligence enrichment
+
+Incident response and containment actions
+
+Clear documentation with evidence and screenshots
+
+Each write‑up follows real‑world SOC methodology and showcases practical analyst skills.
 
 ---
 
 ## Repository Structure
 
-ctf-writeups/
+**ctf-writeups/
 │
 ├── TryHackMe/
 │   ├── SOC Level 1: Attack Detection & Containment/
@@ -30,7 +33,7 @@ ctf-writeups/
 │   │   └── screenshots/
 │   ├── SOC SIEM Dashboard Simulator – Phishing Alert Handling/
 │   │   ├── README.md
-│   │   └── screenshots/
+│   │   └── screenshots/**
 
 ├── HackTheBox/
 │   ├── machine-name/
@@ -372,16 +375,67 @@ I update this repository regularly as I complete more challenges.
 ---
 
 ## Write‑Up Format
-Every write‑up follows a consistent structure:
+Every SOC write‑up in this portfolio follows a consistent investigation structure:
 
-1. Overview  
-2. Recon & Enumeration  
-3. Exploitation  
-4. Privilege Escalation  
-5. Flags  
-6. Lessons Learned  
+1. **Overview**  
+   High‑level summary of the alert, scenario, or challenge.  
+   Includes business impact, affected systems, and why the alert matters.
 
-This format mirrors real penetration testing reports and makes my work easy to review.
+2. **Initial Alert Review**  
+   First impressions from the SIEM dashboard:  
+   - Alert type  
+   - Severity  
+   - Source/destination  
+   - Key fields  
+   - Immediate red flags
+
+3. **Investigation & Log Analysis**  
+   Deep‑dive into SIEM data and correlated logs:  
+   - Authentication logs  
+   - Email gateway logs  
+   - Proxy/firewall logs  
+   - Endpoint telemetry  
+   - Timeline reconstruction
+
+4. **Threat Intelligence Findings**  
+   Reputation checks, IOC validation, domain/IP history, malware associations.  
+   Includes external TI sources and internal enrichment.
+
+5. **Attack Assessment**  
+   Determining the nature of the threat:  
+   - Enumeration  
+   - Phishing  
+   - Credential compromise  
+   - Lateral movement  
+   - Reconnaissance  
+   - Malware delivery  
+
+6. **Response & Containment Actions**  
+   Steps taken to mitigate the threat:  
+   - Firewall rules  
+   - Account lockout  
+   - Domain/IP block  
+   - Email removal  
+   - Rate limiting  
+   - Escalation to relevant teams  
+   - Playbook alignment
+
+7. **Outcome**  
+   Final state of the incident:  
+   - Was the attacker blocked?  
+   - Was the user protected?  
+   - Was the threat neutralised?  
+   - Any residual risk?
+
+8. **Lessons Learned**  
+   Analyst reflection:  
+   - What worked well  
+   - What could be improved  
+   - Detection tuning opportunities
+
+9. **Screenshots & Evidence**  
+   Visual proof of alerts, logs, TI results, and containment actions.
+
 
 ---
 
