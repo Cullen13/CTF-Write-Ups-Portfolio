@@ -22,7 +22,7 @@ Each write‑up follows real‑world SOC methodology and showcases practical ana
 
 ## Repository Structure
 
-ctf-writeups/
+CTF-writeups/
 │
 ├── TryHackMe/
 │   ├── SOC Level 1: Attack Detection & Containment/
